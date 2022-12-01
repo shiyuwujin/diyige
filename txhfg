@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>世宇全五金个人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="margin:0;">
+  <h1>第二个网页来了！哈哈哈！</h1>
+  </body>
+</html>
